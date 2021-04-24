@@ -18,7 +18,7 @@
 ### Career   
 
 #### Dankook University
-* MLPA Lab [[GitHub]](github.com/MLPA-DKU, "MLPA Lab Organization"), [[Web]](https://sites.google.com/view/mlpalab, "MLPA Lab Site")   
+* MLPA Lab [[GitHub]](github.com/MLPA-DKU), [[Web]](https://sites.google.com/view/mlpalab)   
 * Master in Computer Science,  Feb 2021   
 * B.E. in Applied Computer Engineering,  Feb 2019   
 * * *
