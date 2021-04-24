@@ -9,17 +9,21 @@
 <a href="https://www.instagram.com/gabliw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabliw/"/></a>&nbsp
 </p>
 
+### Research Focus
+
+ * Applied machine learning for computer vision and image processing   
+ * User identification or type classification using gait information in smart insole sensors
+
+* * *
 ### Career   
 
 #### Dankook University
 * MLPA Lab [[GitHub]](https://github.com/MLPA-DKU, "MLPA Lab Organization"), [[Web]](https://sites.google.com/view/mlpalab, "MLPA Lab Site")   
 * Master in Computer Science
 * B.E. in Applied Computer Engineering 
+* * *
 
-### Research Focus
 
- * Applied machine learning for computer vision and image processing   
- * User identification or type classification using gait information in smart insole sensors
 
 
 
