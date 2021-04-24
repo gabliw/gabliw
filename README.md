@@ -11,7 +11,7 @@
 
 >### Career   
 >> * Dankook University
->>> MLPA Lab [[GitHub]](https://github.com/MLPA-DKU, "MLPA Lab Organization"), [[Web]](https://sites.google.com/view/mlpalab, "MLPA Lab Site")   
+>>> - MLPA Lab [[GitHub]](https://github.com/MLPA-DKU, "MLPA Lab Organization"), [[Web]](https://sites.google.com/view/mlpalab, "MLPA Lab Site")   
 >>> - Master in Computer Science
 >>> - B.E. in Applied Computer Engineering 
 
