@@ -21,6 +21,7 @@
 * MLPA Lab [[GitHub]](https://github.com/MLPA-DKU), [[Web]](https://sites.google.com/view/mlpalab)   
 * Master in Computer Science,  Feb 2021   
 * B.E. in Applied Computer Engineering,  Feb 2019   
+* Researcher in AlcheraInc AAlab, Current 
 * * *
 
 
