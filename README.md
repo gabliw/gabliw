@@ -21,8 +21,10 @@
 * MLPA Lab [[GitHub]](https://github.com/MLPA-DKU), [[Web]](https://sites.google.com/view/mlpalab)   
 * Master in Computer Science,  Feb 2021   
 * B.E. in Applied Computer Engineering,  Feb 2019   
+
+#### Alchera Inc.
+* Anomaly Analysis Team
 * Researcher in AlcheraInc AAlab, Current 
-* * *
 
 
 
