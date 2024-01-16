@@ -12,9 +12,10 @@
 ### Research Focus
 
  * Applied machine learning for computer vision and image processing   
- * User identification or type classification using gait information in smart insole sensors
+ * Multi-modal User identification or type classification using gait information in smart insole sensors
  * Smoke Detection in Camera Image for Wildfire prevention.
- * Multi-Person Pose Estimation in Multi-Channeled Real-Time CCTV images. 
+ * Wildifre Location Estimation using Camera Meta Data, Camera Image and Map Data.
+ * Multi-Person Pose Estimation in Multi-Channeled Real-Time CCTV images.
 
 * * *
 ### Career   
@@ -25,11 +26,12 @@
 * B.E. in Applied Computer Engineering,  Feb 2019   
 
 #### Alchera Inc.
-* Anomaly Analysis Team
-* Researcher in AlcheraInc AAlab 2021.06 ~ 2023.04
 
-* Face Analysis Team
-* Reseacher in AlcheraInc FAlab  2023.04 ~ 2023.12
+ * Anomaly Analysis Team
+ * Researcher in AlcheraInc AAlab 2021.06 ~ 2023.04
+ 
+ * Face Analysis Team
+ * Reseacher in AlcheraInc FAlab  2023.04 ~ 2023.12
 
 
 
