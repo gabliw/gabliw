@@ -27,13 +27,10 @@
 
 #### Alchera Inc.
 
- * Anomaly Analysis Team
- * Researcher in AlcheraInc AAlab 2021.06 ~ 2023.04
- 
- * Face Analysis Team
- * Reseacher in AlcheraInc FAlab  2023.04 ~ 2023.12
-
-
+ * Anomaly Analysis Team, Researcher in AlcheraInc AAlab 2021.06 ~ 2023.04
+ * Task : Wildfire Prevention.
+ * Face Analysis Team, Reseacher in AlcheraInc FAlab  2023.04 ~ 2023.12
+ * Task : Behavior Anaylsis.
 
 
 
