@@ -13,6 +13,8 @@
 
  * Applied machine learning for computer vision and image processing   
  * User identification or type classification using gait information in smart insole sensors
+ * Smoke Detection in Camera Image for Wildfire prevention.
+ * Multi-Person Pose Estimation in Multi-Channeled Real-Time CCTV images. 
 
 * * *
 ### Career   
@@ -24,7 +26,10 @@
 
 #### Alchera Inc.
 * Anomaly Analysis Team
-* Researcher in AlcheraInc AAlab, Current 
+* Researcher in AlcheraInc AAlab 2021.06 ~ 2023.04
+
+* Face Analysis Team
+* Reseacher in AlcheraInc FAlab  2023.04 ~ 2023.12
 
 
 
